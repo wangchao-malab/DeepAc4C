@@ -1,0 +1,7 @@
+,sequence_id,predicted_probability,result
+0,seq0|1|testing,0.9966,ac4C Site
+1,seq1|1|testing,0.9996,ac4C Site
+2,seq2|1|testing,0.9936,ac4C Site
+3,seq3|1|testing,0.8446,ac4C Site
+4,seq4|1|testing,0.895,ac4C Site
+5,seq5|1|testing,0.9986,ac4C Site
