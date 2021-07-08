@@ -7,7 +7,7 @@ The source code and datasets(both training and testing datasets) can be freely d
 
 ## Brife tutorial
 
-### 2. Enviornment requirements
+### 1. Enviornment requirements
 Before running, please make sure the following packages are installed in Python environment:
 
 gensim==3.4.0  
@@ -26,4 +26,9 @@ python DeepAc4C.py -i ./sequence/input_query.fasta -o prediction_results.csv
 -o output file name 
 
 ### 3. Output
+The output file (in ".csv" format) can be found in results folder, which including sequence name, predicted probability and redicted result.  
+Sequence with predicted probability > 0.5 was regared as ac4C site.  
+
+### 4. References
+Chao Wang et al. 2021. DeepAc4C: A convolutional neural network model with hybrid features com-posed of physicochemical patterns and distributed representation information for identification of N4-acetylcytidine in mRNA. Bioinformatics (Accepted).  
 
