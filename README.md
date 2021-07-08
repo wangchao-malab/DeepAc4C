@@ -5,9 +5,9 @@ A webserver is available at: http://lab.malab.cn/~wangchao/softs/DeepAc4C/.
 
 The source code and datasets(both training and testing datasets) can be freely download from the github and the webserver page.
 
-## brife tutorial
+## Brife tutorial
 
-### 1 Enviornment requirements
+### 2. Enviornment requirements
 Before running, please make sure the following packages are installed in Python environment:
 
 gensim==3.4.0  
@@ -18,3 +18,12 @@ biopython==1.7.8
 numpy==1.19.2  
 
 For convenience, we strongly recommended users to install the Anaconda Python 3.7.3 (or above) in your local computer.
+
+### 2. Running
+Changing working dir to DeepAc4C, and then running the following command:  
+python DeepAc4C.py -i ./sequence/input_query.fasta -o prediction_results.csv  
+-i: input file in fasta format  
+-o output file name 
+
+### 3. Output
+
