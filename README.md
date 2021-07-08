@@ -10,11 +10,11 @@ The source code and datasets(both training and testing datasets) can be freely d
 ### 1 Enviornment requirements
 Before running, please make sure the following packages are installed in Python environment:
 
-gensim==3.4.0
-pandas==1.0.3
-tensorflow==2.3.0
-python==3.7.3
-biopython==1.7.8
-numpy==1.19.2
+gensim==3.4.0  
+pandas==1.0.3  
+tensorflow==2.3.0  
+python==3.7.3  
+biopython==1.7.8  
+numpy==1.19.2  
 
 For convenience, we strongly recommended users to install the Anaconda Python 3.7.3 (or above) in your local computer.
