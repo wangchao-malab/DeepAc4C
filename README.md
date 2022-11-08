@@ -1,7 +1,7 @@
 # DeepAc4C
 DeepAc4C, which identifies ac4C using convolutional neural networks (CNNs) using hybrid features composed of physico-chemical patterns and a distributed representation of nucleic acids.
 ## Webserver and datasets
-A webserver is available at: http://lab.malab.cn/~wangchao/softs/DeepAc4C/.
+A webserver is available at: http://lab.malab.cn/~wangchao/softs/DeepAc4C/ or at http://39.100.246.211:10503/.
 
 The source code and datasets(both training and testing datasets) can be freely download from the github and the webserver page.
 
